@@ -1,0 +1,40 @@
+.titulos {
+    font-size: 2em;
+    padding: 60px 3%;
+    color: white;
+    text-align: center;
+}
+
+.titulos span {
+    color: aqua;
+}
+
+.titulos p {
+    font-size: 0.5em;
+}
+
+.link {
+    text-align: center;
+}
+
+.Encurtar {
+
+    padding: 30px 3%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.link input {
+    display: block;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 10px 15px 10px 0;
+}
+
+.Encurtar p {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 400px;
+    background-color: #7BF1A8;
+}
