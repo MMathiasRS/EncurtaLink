@@ -50,7 +50,7 @@
 .link button {
     cursor: pointer;
     margin: 25px 0;
-    padding: 0.6vw 2vw;
+    padding: 1em 4em;
     background: rgb(69, 67, 170);
     font-weight: bold;
     border: 1px solid black;
