@@ -73,6 +73,8 @@ const Home = () => {
             </div>
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6891333234726935"
+     crossorigin="anonymous"></script>
 
         </div>
     )
