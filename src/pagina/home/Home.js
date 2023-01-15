@@ -18,7 +18,7 @@ const Home = () => {
         try {
             const res = await axios(`https://api.shrtco.de/v2/shorten?url=${url}`)
             const link =
-                setEurl(res.data.result.share_link);
+                setEurl(res.data.result.short_link);
 
 
         } catch (e) {
