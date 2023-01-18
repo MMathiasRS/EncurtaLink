@@ -1,0 +1,77 @@
+.titulos {
+    font-size: 1.5em;
+    padding: 60px 3%;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.titulos span {
+    color: aqua;
+}
+
+.titulos p {
+    font-size: 1.2em;
+    margin: 0 auto;
+    
+}
+
+.link {
+    text-align: center;
+}
+
+.Encurtar {
+
+    padding: 2vw 3%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.link input {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px 20px 10px 0;
+}
+
+.link input:focus {
+
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+.Encurtar p {
+    text-align: left;
+    border-radius: 10px;
+    padding: 1vw 2vw;
+    margin: 0 auto;
+    width: 200px;
+    background-color: #7BF1A8;
+}
+
+.link button {
+    cursor: pointer;
+    margin: 25px 0;
+    padding: 1em 4em;
+    background: rgb(69, 67, 170);
+    font-weight: bold;
+    border: 1px solid black;
+    color: white;
+}
+
+.Beneficio {
+    font-size: 1.2em;
+    padding: 50px 3%;
+    margin: 0 auto;
+    color: white;
+
+
+}
+
+.Beneficio span {
+   
+    color: #7BF1A8;
+    font-weight: bold;
+}
